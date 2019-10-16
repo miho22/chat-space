@@ -30,7 +30,7 @@ Things you may want to cover:
 |------|----|-------|
 |email|string|null: false, unique: true|
 |password|string|null: false|
-|username|string|null: false, unique: true|
+|name|string|null: false, unique: true|
 |group_id|integer|null: false, foreign_key: true|
 
 ### Association
